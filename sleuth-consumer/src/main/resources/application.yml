@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: spring-cloud-sleuth-consumer
+            
+test-sleuth-server:
+  ribbon:
+    eureka:
+      enabled: false
+    listOfServers: localhost:8888
+    ServerListRefreshInterval: 15000
+    ActiveConnectionsLimit: 1           

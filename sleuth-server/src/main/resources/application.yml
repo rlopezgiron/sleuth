@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: spring-cloud-sleuth-server
+    
+server:
+  port : 8888
+    
+         
