@@ -20,7 +20,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring-cloud-dependencies.version>Hoxton.RELEASE</spring-cloud-dependencies.version>
-		<io.springfox.version>2.9.2</io.springfox.version>
+		<io.springfox.version>2.10.0</io.springfox.version>
 	</properties>
 
 	<dependencyManagement>
